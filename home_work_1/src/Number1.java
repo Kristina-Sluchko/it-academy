@@ -54,8 +54,8 @@ public class Number1 {
         System.out.println(e1);  //11010110 >>> 00000010 = 11110101
 
         // Задание 1.5
-        double l = 42.5;
-        System.out.println(^l);
+       // double l = 42.5;
+       // System.out.println(~l);
         //java: illegal start of expression
         //Побитовые операторы работают с целыми числами
 
