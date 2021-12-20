@@ -1,7 +1,3 @@
-package com.company;
-
-import jdk.swing.interop.SwingInterOpUtils;
-
 public class Number1 {
 
     public static void main(String[] args) {
