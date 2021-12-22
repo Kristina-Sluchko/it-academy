@@ -5,6 +5,7 @@ public class Number141 {
         long a = 1;
         long exp = 3;
         boolean x = true;
+
         while(x == true){
             try {
                 a = Math.multiplyExact(a,exp);
